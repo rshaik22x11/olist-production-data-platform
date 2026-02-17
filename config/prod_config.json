@@ -1,0 +1,4 @@
+{
+  "env": "prod",
+  "base_path": "/tmp/ecommerce_prod/"
+}

@@ -1,0 +1,4 @@
+{
+  "env": "dev",
+  "base_path": "/tmp/ecommerce_dev/"
+}
