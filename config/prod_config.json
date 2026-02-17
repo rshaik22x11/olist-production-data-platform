@@ -1,6 +1,0 @@
-{
-  "env": "prod",
-  "catalog": "ecommerce_prod",
-  "base_path": "/tmp/ecommerce_prod/"
-}
-
