@@ -1,1 +1,6 @@
+{
+  "env": "dev",
+  "catalog": "ecommerce_dev",
+  "base_path": "/tmp/ecommerce_dev/"
+}
 
