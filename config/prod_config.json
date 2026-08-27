@@ -1,4 +1,12 @@
 {
-  "env": "prod",
-  "base_path": "/tmp/ecommerce_prod/"
+  "environment": "prod",
+  "project_name": "olist-production-data-platform",
+
+  "paths": {
+    "raw": "/Volumes/projects/olist/datasets_raw",
+    "bronze": "/Volumes/projects/olist/bronze",
+    "silver": "/Volumes/projects/olist/silver",
+    "gold": "/Volumes/projects/olist/gold",
+    "metadata": "/Volumes/projects/olist/meta_data"
+  }
 }
