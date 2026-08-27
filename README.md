@@ -1,9 +1,9 @@
-#Olist Production Data Platform
+# Olist Production Data Platform
 
 An end-to-end data engineering platform built using
 Databricks, PySpark, SQL and Delta Lake.
 
-##The platform implements:
+## The platform implements:
 
 - Medallion Architecture
 - Incremental data processing
